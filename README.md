@@ -1,6 +1,6 @@
 # How To Read The Tcpdump Traffic Log
 
-This reading explains how to identify the brute force attack using tcpdump. 
+This reading explains how to identify the brute force attack using tcpdump. [Link of the tcpdump traffic log](https://github.com/KAmii-cxo/How-To-Read-Tcpdump-Traffic-Log/blob/main/tcpdump%20traffic%20log)
 
 
 ```
