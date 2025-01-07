@@ -28,13 +28,13 @@ This reading explains how to identify the brute force attack using tcpdump. [Lin
 
 
 TCP Flag codes include:
-
-####Flags [S]  - Connection Start 
-####Flags [F]  - Connection Finish 
-####Flags [P]  - Data Push
-####Flags [R]  - Connection Reset
-####Flags [.]  - Acknowledgment
-
+```
+Flags [S]  - Connection Start 
+Flags [F]  - Connection Finish 
+Flags [P]  - Data Push
+Flags [R]  - Connection Reset
+Flags [.]  - Acknowledgment
+```
 ---
 
 ```
